@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
-<h3 align="center">I'm a Data enthusiastic and front end developer</h3>
+<h3 align="center">I'm a Data enthusiastic and Front end developer</h3>
 
 - 🌱 I’m currently learning **Java , JavaScript**
 
